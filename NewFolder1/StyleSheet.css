@@ -1,0 +1,65 @@
+﻿body {
+}
+.image1 {
+       border-radius:20px;
+}
+
+div#menu{
+    border-radius:20px;
+
+}
+.txt_user_id {
+    border-radius:20px;
+}
+
+.ImageButtonHome {
+    border-radius:20px;
+}
+.ImageButtonOption {
+         border-radius:20px;
+}
+.ImageLogo {
+         border-radius:20px;
+
+}
+.btn_packages{
+         border-radius:20px;
+
+}
+
+
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+div#view {
+    float: left;
+    width: 35%;
+    padding: 50px;
+    background-color: none;
+   
+}
+.btn_search {
+      border-radius:20px;
+}
+
+div#details {
+    float: left;
+     border-radius:20px;
+    
+}
+div#UserDetails{
+    border-radius:20px;
+}
+div#DriverDetails{
+    border-radius:20px;
+}
+div#ProductDetails{
+    border-radius:20px;
+}
+div#statement_pic{
+    border-radius:20px;
+}
+
+
